@@ -11,16 +11,10 @@ is_contact: true
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Flat 1013, Urbanest Westminster Bridge Student Accommodation, 203 Westminster Bridge Road
 >
 > London
 >
 > United Kingdom
 
 ---
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
