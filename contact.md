@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [y.chu11@lse.ac.uk](mailto:y.chu11@lse.ac.uk)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+44-7436596250](tel:+44-7436596250)
 
 ---
 
